@@ -1,8 +1,8 @@
-# r-binder-template
+# distance-binder-demo
 
 ## Jupyter Notebooks For Reproducible Research
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rse-standrewscs/r-binder-template/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rse-standrewscs/distance-binder-demo/master?filepath=GettingStarted-distill.ipynb)
 
 This repository provides an example of publishing a reproducible
 R Jupyter notebook. Click on the binder badge above to launch it
