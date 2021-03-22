@@ -1,8 +1,2 @@
 install.packages("ggplot2")
-install.packages("mrds")
 install.packages("Distance")
-install.packages("dsm")
-install.packages("dsmextra")
-install.packages("DSsim")
-install.packages("mads")
-install.packages("dssd")
